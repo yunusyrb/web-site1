@@ -1,0 +1,130 @@
+body{
+	margin:0;
+	background-color:pink;
+}
+.header{
+	height:42px;
+	width:100%;
+	background-color:#37ADF0;	
+	
+}
+.dil{
+	margin-top:-30px;
+	margin-left:750px;
+	float:left;
+	color:white;
+}
+.table{
+	padding:3px;
+}
+.table:hover{
+	text-decoration:underline;
+}
+.arama{
+	position: absolute;
+    margin-left:870px;
+	display:block;
+	
+}
+.text{
+	width:260px;
+	height:30px;
+	margin-top:5px;
+	margin-right:120px;
+	position:relative;
+	border:0;
+	border-radius: 18px;
+	background-color:blue;
+	opacity:0.3;
+	color:white;
+}
+.text:hover {
+	opacity:1.0;
+	transition:1s;
+}
+.arama img{
+	width:20px;
+	height:20px;
+	position:absolute;
+	float:right;
+	margin-left:230px;
+	margin-top:-27px;
+}
+.menu{
+	width:100%;
+	height:100px;
+	background-color:white;
+    margin-top:0px;
+	opacity:0.3	;
+	position:absolute;
+}
+.logo{
+	position:relative;
+}
+.logo img{
+	width:130px;
+	height:60px;
+	margin-left:190px;
+	margin-top:30px;
+}
+.reklam{
+	width:100%;
+	height:280px;
+	background-color:white;
+	margin-top:5px;
+	
+}
+.yazi{
+	width:100%;
+	height:100px;
+	background-color:gray;
+	position:relative;
+	text-align:center;	
+	margin-top:-30px;
+}
+.yazi p{
+    padding-top:30px;
+	font-size:30px;
+}
+.altmenu{
+	width:100%;
+	height:280px;
+	background-color:white;
+	position:relative;	
+}
+.grup{
+	width:950px;
+	margin-left:180px;
+}
+.secenek{
+	float:left;
+	height:280px;
+	width:150px;	
+	background-color:white;
+    text-align:center;
+	padding-left:px;
+}
+.secenek img{
+	padding-top:5px;
+
+}
+.secenek h6{
+	font-size:18px;
+}
+.secenek p{
+	font-size:15px;
+}
+.secenek:hover{
+	background-color:aqua;
+	color:white;
+	margin-top:-20px;
+}
+.secenek:hover h6{
+	transition:0.5s;
+	color:white;
+}
+.secenek img:hover{
+	width:80px;
+	height:80px;
+}
+
