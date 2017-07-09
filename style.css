@@ -16,6 +16,7 @@ body{
 }
 .table{
 	padding:3px;
+	cursor:pointer;
 }
 .table:hover{
 	text-decoration:underline;
@@ -127,4 +128,111 @@ body{
 	width:80px;
 	height:80px;
 }
+.uruntanitim{
+	width:100%;
+	height:300px;
+	background-color:gray;
+}
+.urunler{
+	margin-left:255px;
+	width:780px;
+	display:inline block;
+}
+.urun{
+	float:left;
+	width:255px;
+	height:250px; 
+	margin-left:5px;
+	margin-top:25px;
 
+}
+.uresim{
+	height:175px;
+	width:250px;
+    overflow:hidden;
+}
+.uresim img{
+	height:175px;
+	width:250px;
+
+}
+.uresim:hover img{
+	height:175px;
+	width:250px;
+    transform:scale(1.2);
+}
+.uaciklama{
+	padding-left:5px;
+	height:80px;
+	width:245px;
+	background-color:white;
+	display:inline-block;
+}
+.uaciklama h4{
+	color:blue;
+}
+.uaciklama:hover{
+	background-color:blue;
+}
+.uaciklama:hover h4{
+	color:white;
+}
+.referanslar{
+	height:280px;
+	width:100%;
+	background-color:white;
+}
+.referanss{
+	width:100%;
+	margin-left:150px;
+	display:inline-block;
+}
+.referanss h4{
+	margin-top:20px;
+	margin-left:300px;
+}
+.referanss h4 b{
+	font-size:24px;
+	color:aqua;
+}
+.referans{
+	
+	float:left;	
+	width:350px;
+	height:105px;
+	margin-top:20px;
+}
+.rreferans{
+	width:125px;
+	height:147px;
+}
+.raciklama{
+	margin-top:-163px;
+	margin-left:125px;
+	width:215x;
+	height:105px;
+	background-color:white;
+	padding-left:10px;
+
+}
+.runvan{
+	margin-top:-32px;
+	margin-left:125px;
+	width:225px;
+	height:52px;
+	background-color:blue;
+}
+.runvan b{
+	font-size:16px;
+}
+.runvan h5{
+	margin-left:15px;
+	padding-top:8px;
+}
+.tumreferanslar{
+	margin-left:450px;
+	margin-top:200px;
+	height:25px;
+	width:120px;
+	background-color:white;
+}
